@@ -10,7 +10,7 @@
 
  * Storyboard should enable us to search for notes by title, text and tags.
  * E.g.:
- *    searchByTitle("Test Traceplayer")
+ *   	searchByTitle("Test Traceplayer")
  *   	searchByTag({"testing", "unit test"})
  *   	searchByText("Implement a unit test for the class Traceplayer of the spark core framework.")
 
