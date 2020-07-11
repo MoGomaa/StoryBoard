@@ -1,0 +1,12 @@
+D:\work\C#\Storyboard\Storyboard\bin\Debug\Storyboard.exe
+D:\work\C#\Storyboard\Storyboard\bin\Debug\Storyboard.pdb
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.Properties.Resources.resources
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.csproj.GenerateResource.Cache
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.exe
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.pdb
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.Storyboard.resources
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.gbNote.resources
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.Add_Note_Form.resources
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.Search_Form.resources
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.Search_Result_Form.resources
+D:\work\C#\Storyboard\Storyboard\obj\x86\Debug\Storyboard.csprojResolveAssemblyReference.cache
